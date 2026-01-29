@@ -1,2 +1,2 @@
-# hibot
+# HiBot
 push message auto
